@@ -1,1 +1,33 @@
-ee
+Robert’s
+User Stories
+Joe
+Joe is a 24 year old grad student who went straight into his master's program. He’s working in various studies and projects, but would like funding for both projects and to continue his masters. Joe would like to continue working on his masters full time, without having to continue his job. He’d also like to get advice from other grad students. After graduation, he’d like to be able to connect with recruiters in his field, and the university’s hire-a-niner isn’t working for him.
+
+Timothy
+Tim is a 34 year old professional in the IT industry. His company has paid to send him back to school to get a masters degree, but he would like some help with navigating the college experience. It’s been over a decade since he was in school last, and he’s a little confused about everything. He’d like to be able to easily talk to and get advice from other students, as well as being able to quickly and easily contact his advisor. He doesn’t really care about funding, as his company is footing the bill. 
+
+Min, 26y/o graduate
+Min min recently graduated with her masters degree in AI, and hasn’t found a job in the industry yet. She’d like to be able to easily get in contact with various recruiters in the field that she got her degree in. She’d also like some sort of social media platform, where she can connect and network with other graduates, and learn from them, as well as creating a network of industry professionals.
+
+Scenarios
+Min recently graduated, and is searching for a job, but has been unsuccessful. She hears about the app from a friend, and decides to give it a try. She wants to hear from other graduates and see their advice on getting jobs after getting their masters. She also heard that you can use it to connect with recruiters, and she thinks that it would help her find a job. Min doesn’t really care about the other functions of the app, like advisors and assignment discussions, but she thinks that the social networking aspect would be really helpful.
+
+Timothy has been struggling with his coursework, after being out of school for over a decade. He hears about this app from a classmate, and decides to give it a try. He figures out that you can use it to discuss assignments, which he finds really useful, as he can talk with his classmates if he gets stuck on an assignment. He also uses it to easily and quickly schedule meetings and talk with his advisor. 
+
+Joe is a 24 year old graduate student with a part time job. He sees an announcement on the school website about an app that will help him find funding for projects and his degree, as well as helping him in class. Joe finds this interesting because he’d like to devote more time to his projects and his work, instead of having to do shifts at the local diner. He downloads the app, and finds it really useful. He uses it to help other students with their assignments, and also is able to find a source of funding for his project, so he can quit his job at the diner. Joe is able to use the social networking platform to meet a recruiter for a large tech company in the area, who offers him a job after he graduates. 
+
+
+
+
+
+Feature List
+Students will be able to log in using their UNCC credentials through the OAuth SSO
+Keep track of classes and assignments
+See what classes are available, and recommended
+Will sync with canvas, and students will be able to discuss the assignments (under the eye of the professor)
+Social network-like platform
+Students can connect and network with other students, as well as former students that have already graduated
+Students can also connect with recruiters in their field
+Job/Funding Search platform
+Students will be able to find grants and other types of funding
+They will also be able to send out resumes to any companies that are looking to hire in that field
