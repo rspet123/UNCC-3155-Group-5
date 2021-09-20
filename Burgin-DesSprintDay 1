@@ -1,1 +1,27 @@
+Scenarios
+Jim - Jim has recently graduated from high school and is looking forward to college as a recently accepted UNCC student. His high school offered dual enrollment, in which Jim took some college courses while he was still in high school. Because of this, Jim had already made substantial progress in working towards his bachelor’s degree. Wanting to make sure that all of his hard work paid off in him getting his degree earlier than usual, Jim wanted to maximize his time in college and to make sure that every semester boosted him closer to his goal. Luckily, UNCC had just sent out an email to all students regarding their new scheduling app, and Jim could not wait to get home and test out some of the features.The first thing he wanted to see was the app’s ability to analyze the classes he still needed to take and create a personalized schedule for him.
 
+Veronica - Veronica has just recently graduated from UNCC with a bachelor’s degree in computer science. Now that she has graduated, she begins the hunt for a job. Although she did not have an internship during her years in college, she is still highly qualified and learned a lot during her school days. She has applied for a couple of jobs recently, but has yet to hear anything back from them. Wanting to boost her chances of securing a job, Veronica decides to open up UNCC’s new scheduling app, as one of her previous professors said that it has helped many students get a job upon graduation. Within the app, she decides to navigate to the career section and is immediately greeted with job openings from companies that she had not even considered before. 
+
+Billy - Billy has been working with his current employer for around fifteen years now. He went to a community college to get his associates degree right after high school, and that same college helped land him the job he has currently. Although Billy is happy with his current job, he had just recently learned that his wife was pregnant with twins. Upon hearing the news Billy was elated at the thought of him becoming a dad, but was also a little panicked, as he did not make much money at his current job. Wanting to make sure that his soon to be children were well off, Billy decided to go back to school and applied to UNCC. After getting accepted, Billy decided to check out the university’s scheduling app, as he received an email about its new launch. Although he had only been looking through the app for a couple of minutes he was already enthusiastic, as the app allowed him to register for classes around his work schedule, while also leaving time to spend at home with his wife. 
+
+User Stories 
+Jim - As an incoming student, Jim wants to be able to maximize his time at the university in order to graduate as fast as possible. He would like to see fully optimized scheduling features in the app, as those will allow him to properly plan out his semesters in college.
+
+Veronica - Now that Veronica has received her bachelor’s degree, her primary focus as of now is to secure a job. Because of this, she would like the app to constantly be refreshing job and internship opportunities, and would like to be able to upload her resume and other documents straight from the app. 
+
+Billy - As a returning student with both a job and a family, Billy needs to be able to keep track of his busy life. Since he is trying to juggle so much at once, Billy is really hoping the app’s canvas sync feature will help keep him on track to turn in assignments by their due date. 
+
+
+Group Feature list:
+Calendar 
+Schedule builder
+Canvas Sync
+On campus resources
+Job / internship listings
+Direct messaging with advisor/on campus academic aid
+SSO Sign in
+Surveys and Questionnaires for recommended careers
+Resources for resumes and cover letters
+Course-Outline for posts in-demand
+Resume review by Recruiters
